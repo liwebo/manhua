@@ -1,0 +1,64 @@
+{
+    "nav": [
+        {
+            "url": "/popularity",
+            "picture": "/upload/img/1.png"
+        },
+        {
+            "url": "/end",
+            "picture": "/upload/img/2.png"
+        },
+        {
+            "url": "/popularity",
+            "picture": "/upload/img/3.png"
+        }
+    ],
+    "foote": [
+        {
+            "picture4": "/upload/img/shi.jpg",
+            "title": "食戟之灵",
+            "text": "做美食，开后宫，交基友!"
+        },
+        {
+            "picture4": "/upload/img/xiao.jpg",
+            "title": "小木乃伊到我家",
+            "text": "埃及盗墓团已就位"
+        },
+        {
+            "picture4": "/upload/img/yuan.jpg",
+            "title": "元气少女缘结神",
+            "text": "闷骚狐妖撩动你的少女心"
+        },
+        {
+            "picture4": "/upload/img/yuan.jpg",
+            "title": "元气少女缘结神",
+            "text": "闷骚狐妖撩动你的少女心啊"
+        }
+    ],
+    "por": [
+        {
+            "picture": "upload/img/h1.png",
+            "title": "食戟之灵",
+            "picture1": "upload/img/h2.png",
+            "title1": "未来都市",
+            "picture2": "upload/img/h3.png",
+            "title2": "和泉纱雾"
+        },
+        {
+            "picture": "upload/img/h4.png",
+            "title": "食戟之灵",
+            "picture1": "upload/img/h5.png",
+            "title1": "未来都市",
+            "picture2": "upload/img/h6.png",
+            "title2": "和泉纱雾"
+        },
+        {
+            "picture": "upload/img/h7.png",
+            "title": "食戟之灵",
+            "picture1": "upload/img/h8.png",
+            "title1": "未来都市",
+            "picture2": "upload/img/h9.png",
+            "title2": "和泉纱雾"
+        }
+    ]
+}
